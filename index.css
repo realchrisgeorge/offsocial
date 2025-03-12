@@ -48,7 +48,8 @@ margin: 20px 0px 40px 0px;
 body.modal-open {
 overflow: hidden;
 position: fixed;
-width: 100%; 
+width: 100%;
+background-color: #BDBEBE;
 }
 
 ::selection {
