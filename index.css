@@ -1,7 +1,7 @@
 @font-face {
-font-family: 'Daft Regular';
-src: url('/daftregular.woff2') format('woff2'),
-url('/daftregular.woff') format('woff');
+font-family: 'Brutalist';
+src: url('/MonumentExtendedRegular.otf') format('otf'),
+url('/MonumentExtendedBold.otf') format('otf');
 font-weight: normal;
 font-style: normal;
 font-display: swap;
@@ -9,7 +9,7 @@ font-display: swap;
 
 body {
 margin: 200px 30px 100px 30px;
-font-family: "Helvetica Neue", Arial, sans-serif;font-size: 16px;
+font-family: "Brutalist", Arial, sans-serif;font-size: 16px;
 font-weight: normal;
 line-height: 1em;
 display: flex;
@@ -62,7 +62,7 @@ text-decoration: none;
 }
 
 .logo a {
-font-family: "Daft Regular", "Helvetica Neue", Arial, sans-serif;
+font-family: "Brutalist", "Helvetica Neue", Arial, sans-serif;
 text-transform: uppercase;
 font-weight: normal;
 z-index: 1;
@@ -197,7 +197,7 @@ display: inline-block;
 width: 100%;
 box-sizing: border-box;
 padding: 0px 0px 15px 0px;
-font-family: "Daft Regular", "Helvetica Neue", Arial, sans-serif;
+font-family: "Brutalist", "Helvetica Neue", Arial, sans-serif;
 font-size: 32px;
 font-weight: normal;
 line-height: 1.2em;
@@ -236,7 +236,7 @@ opacity: 1;
 }
 
 .overlay-link-content {
-font-family: "Helvetica Neue", Arial, sans-serif;
+font-family: "Brutslist", Arial, sans-serif;
 font-size: 14px;
 font-weight: normal;
 line-height: 1em;
@@ -286,7 +286,7 @@ box-sizing: border-box;
 max-width: 800px;
 width: 100%;
 padding: 0px 0px 40px 0px;
-font-family: "Daft Regular", "Helvetica Neue", Arial, sans-serif;
+font-family: "Brutalist", "Helvetica Neue", Arial, sans-serif;
 font-size: 45px;
 font-weight: normal;
 line-height: 1.1em;
@@ -304,7 +304,7 @@ box-sizing: border-box;
 max-width: 800px;
 width: 100%;
 padding: 0px 0px 40px 0px;
-font-family: "Daft Regular", "Helvetica Neue", Arial, sans-serif;
+font-family: "Brutalist", "Helvetica Neue", Arial, sans-serif;
 font-size: 32px;
 font-weight: normal;
 line-height: 1.2em;
