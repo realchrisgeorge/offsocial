@@ -1,7 +1,7 @@
 @font-face {
 font-family: 'Brutalist';
-src: url('/MonumentExtendedRegular.otf') format('otf'),
-url('/MonumentExtendedBlack.otf') format('otf');
+src: url('fonts/MonumentExtendedRegular.otf') format('otf'),
+url('fonts/MonumentExtendedBlack.otf') format('otf');
 font-weight: normal;
 font-style: normal;
 font-display: swap;
