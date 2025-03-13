@@ -1,5 +1,5 @@
 @font-face {
-font-family: 'Brutalist';
+font-family: "Brutalist";
 src: url('fonts/MonumentExtendedBlack.otf') format('otf'),
 url('fonts/MonumentExtendedRegular.otf') format('otf');
 font-weight: normal;
@@ -9,7 +9,7 @@ font-display: swap;
 
 body {
 margin: 200px 30px 100px 30px;
-font-family: "Brutalist", Arial, sans-serif;font-size: 16px;
+font-family: "Brutalist", monospace;font-size: 16px;
 font-weight: normal;
 line-height: 1em;
 display: flex;
@@ -62,7 +62,7 @@ text-decoration: none;
 }
 
 .logo a {
-font-family: "Brutalist", "Helvetica Neue", Arial, sans-serif;
+font-family: "Brutalist", monospace;
 text-transform: uppercase;
 font-weight: normal;
 z-index: 1;
